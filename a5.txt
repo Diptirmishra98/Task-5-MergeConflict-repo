@@ -1,6 +1,3 @@
 Hello
-<<<<<<< HEAD
 BlessYou
-=======
 Life is Today......
->>>>>>> feature-1a
